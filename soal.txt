@@ -1,0 +1,9 @@
+Buatlah aplikasi logistik, dengan ketentuan sbb
+1. CRUD Gudang, dengan minimum informasi kapasitas(m3), nama gudang, lokasi
+2. Gudang dibagi menjadi 2 bagian besar, Frozen dan Dry Goods
+3. CRUD barang, dimana terdapat informasi jenis gudang tempat barang ini bisa disimpan
+selain dari nama barang
+4. Gudang bisa diisi barang sejenis (berdasarkan Frozen/Dry) dan jumlah kapasitasnya(m3), dan
+tidak bisa melebihi kapasitas gudang
+5. Gudang dapat dikosongkan
+6. Laporan informasi isi gudang, jumlahnya per barang

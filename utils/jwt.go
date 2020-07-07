@@ -11,7 +11,7 @@ import (
 
 const (
 	hmacSampleSecret = "rahasiadong"
-	expiredPeriod    = 300
+	expiredPeriod    = 120
 )
 
 func JwtEncoder(userName, customKey string) (string, error) {
